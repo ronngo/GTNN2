@@ -1,0 +1,13 @@
+D:\GTNN2\bin\Debug\netcoreapp3.1\GTNN2.exe
+D:\GTNN2\bin\Debug\netcoreapp3.1\GTNN2.deps.json
+D:\GTNN2\bin\Debug\netcoreapp3.1\GTNN2.runtimeconfig.json
+D:\GTNN2\bin\Debug\netcoreapp3.1\GTNN2.runtimeconfig.dev.json
+D:\GTNN2\bin\Debug\netcoreapp3.1\GTNN2.dll
+D:\GTNN2\bin\Debug\netcoreapp3.1\GTNN2.pdb
+D:\GTNN2\obj\Debug\netcoreapp3.1\GTNN2.csprojAssemblyReference.cache
+D:\GTNN2\obj\Debug\netcoreapp3.1\GTNN2.AssemblyInfoInputs.cache
+D:\GTNN2\obj\Debug\netcoreapp3.1\GTNN2.AssemblyInfo.cs
+D:\GTNN2\obj\Debug\netcoreapp3.1\GTNN2.csproj.CoreCompileInputs.cache
+D:\GTNN2\obj\Debug\netcoreapp3.1\GTNN2.dll
+D:\GTNN2\obj\Debug\netcoreapp3.1\GTNN2.pdb
+D:\GTNN2\obj\Debug\netcoreapp3.1\GTNN2.genruntimeconfig.cache
